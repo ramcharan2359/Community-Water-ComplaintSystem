@@ -1,0 +1,8 @@
+# Analysis options for AquaCare Community Water Complaints
+# Simplified to ensure zero warning compatibility across all Flutter & Dart SDK versions
+
+linter:
+  rules:
+    avoid_print: false
+    prefer_const_constructors: false
+    prefer_const_literals_to_create_immutables: false
